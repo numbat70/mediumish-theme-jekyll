@@ -7,6 +7,8 @@ image: assets/images/12.jpg
 featured: true
 hidden: true
 ---
+> This is a quick overview of what makes up the 2 hour session of Ready to Ride. 
+
 
 # Land Intro
 - Safety brief
