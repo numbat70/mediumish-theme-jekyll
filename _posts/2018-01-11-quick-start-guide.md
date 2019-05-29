@@ -1,24 +1,69 @@
 ---
 layout: post
 title:  "Let's test spoilers"
-author: sal
-categories: [ Jekyll, tutorial ]
+author: martin
+categories: [ SUP, Training ]
 image: assets/images/12.jpg
 featured: true
 hidden: true
 ---
 
-Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
+# Land Intro
+- Safety brief
+- Kit Intro
+- Weather / Tide / Current limits
+- Shoreline distance Limits
 
-As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
+## Instructor demo
+- 3 key stages (prone, kneel, stand
+- Self Rescue
+- Falling techniques
+- Recovery Stroke
+- Basic short paddle stroke
+- Push Turn	Water Demo
 
-"When You Don't Have a Memory, How Can You Remember Who to Trust?"
+# Water Based
+## Instructor demo
+- 3 key stages (prone, kneel, standing)
+- Self Rescue
+- Falling techniques
+- Recovery Stroke
+- Basic short paddle stroke
+- Push Turn
 
-The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
+## Introduce new Techniques
+- Develop short paddle stroke
+- Counter Balance
+- Core
+- Step back and reverse paddle turns
+- Stance
 
-(The doctor left off four crucial additional words, revealed in the film's ending.) (Spoiler: Simon had died and was not resuscitated!).
+## Develop
+- Short paddle stroke further
+- Fast & Slow
+- Paddle & Foot steering
+- Reinforce safe falling
+- Forward steering stroke
+- Tighten up turns
 
-A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.</span>
+## Test paddle skills
+-  Circle of trust
+
+## Finish
+
+<span class="spoiler">
+
+- Issue certificates
+- Explain next stage (Tours & Surf)
+- Get feedback
+
+</span>
+
+
+!\[BSUPA LOGO]({{ site.baseurl }}/images/BSUPA.png)
+
+
+
 
 #### So how do we do spoilers?
 
