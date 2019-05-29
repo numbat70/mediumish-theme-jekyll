@@ -50,15 +50,14 @@ hidden: true
 -  Circle of trust
 
 ## Finish
-
-```html
-<span class="spoiler">
-
 - Issue certificates
 - Explain next stage (Tours & Surf)
 - Get feedback
 
-</span>
+
+
+```html
+<span class="spoiler">This is a spoiler</span>
 ```
 
 !\[BSUPA LOGO]({{ site.baseurl }}/images/BSUPA.png)
