@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Let's test spoilers"
+title:  "Ready To Ride scheme"
 author: martin
 categories: [ SUP, Training ]
 image: assets/images/12.jpg
