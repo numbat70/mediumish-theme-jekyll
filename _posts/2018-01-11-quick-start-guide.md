@@ -51,6 +51,7 @@ hidden: true
 
 ## Finish
 
+```html
 <span class="spoiler">
 
 - Issue certificates
@@ -58,7 +59,7 @@ hidden: true
 - Get feedback
 
 </span>
-
+```
 
 !\[BSUPA LOGO]({{ site.baseurl }}/images/BSUPA.png)
 
