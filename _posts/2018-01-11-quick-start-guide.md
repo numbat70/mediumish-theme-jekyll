@@ -59,14 +59,3 @@ hidden: true
 ```html
 <span class="spoiler">This is a spoiler</span>
 ```
-
-!\[BSUPA LOGO]({{ site.baseurl }}/images/BSUPA.png)
-
-
-
-
-#### So how do we do spoilers?
-
-```html
-<span class="spoiler">My hidden paragraph here.</span>
-```
