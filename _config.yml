@@ -16,12 +16,12 @@ authors:
   martin:
     name: Martin
     display_name: Martin
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/gravatar.png'
     gravatar: numbat70@icloud.com
     email: numbat70@icloud.com
     web:
     twitter: https://twitter.com/martinkerr
-    description: "Wow. It's bright up here"
+    description: "   Wow. It's bright up here"
 
 # Plugins
 plugins:
